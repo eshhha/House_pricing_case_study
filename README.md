@@ -118,9 +118,9 @@ One-Hot Encoding
 Outlier Detection (IQR Method)
 Train-Test Splitting
 Project Structure
-├── Case_study2.ipynb
-├── House_Pricing.csv
-└── README.md
+  'Case_study2.ipynb'
+  'House_Pricing.csv'
+  'README.md'
 Future Improvements
 Feature Selection
 Feature Engineering
